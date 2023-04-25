@@ -1,0 +1,15 @@
+Rotina Principal = MATA410
+
+MT410INC - Ponto de entrada exeutado após a inclusão de um novo pedido
+
+MT410ALT - Ponto de entrada exeutado após a altração de um pedido
+
+MT410DEL - Ponto de entrada exeutado após a exclusão de um pedido
+
+MT410MNU - Ponto de entrada exeutado para adicionar novas funções no Browse
+
+MT410BRW - Ponto de entrada exeutado antes a inclusão de um novo pedido
+
+MA410COR - Ponto de entrada exeutado para adicionar cores na legenda
+
+MA410LEG - Ponto de entrada exeutado para adicionar texto das legendas

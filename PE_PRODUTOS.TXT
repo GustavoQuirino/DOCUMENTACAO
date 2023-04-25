@@ -1,0 +1,15 @@
+Rotina Principal = MATA010
+
+MT010COR - Ponto de entrada que adiciona legenda de cores no Browse
+
+MA010BUT - Ponto de entrada que adiciona botões na inclusão de um cadastro
+
+MT010EXC - Ponto de entrada executado após a exclusão de um cadastro
+
+MT010INC - Ponto de entrada executado após a inclusão de um cadastro
+
+MT010ALT - Ponto de entrada executado após a alteração de um cadastro
+
+A010TOK - Ponto de entrada executado para validar a inclusão ou alteração de um cadastro
+
+MT010BRW - Ponto de entrada que adiciona botões no Browse 

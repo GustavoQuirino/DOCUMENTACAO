@@ -1,0 +1,15 @@
+Rotina Principal = MATA030
+
+M030INC – Ponto de entrada executado após a Inclusão dos dados do Cliente no arquivo
+
+M030ALT – Ponto de entrada executado na função de Alteração do Programa de Clientes
+
+MA030TOK – Ponto de entrada executado na função que verifica se os campos são válidos na inclusão/alteração
+
+MA030COR - Ponto de entrada para adicionar cores de legenda para os clientes
+
+M030EXC – Ponto de entrada executado após a confirmação de Exclusão
+
+M030DEL – Ponto de entrada executado antes de executar a Rotina de Exclusão de Clientes
+
+MA030ROT – Ponto de entrada executado após a chamada da rotina de Browse

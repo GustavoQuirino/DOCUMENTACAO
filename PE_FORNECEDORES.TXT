@@ -1,0 +1,11 @@
+Rotina Principal = MATA020
+
+M020INC - Ponto de entrada executado após a inclusão de fornecedores
+
+MA020ALT - Ponto de entrada executado após a alteração de fornecedores
+
+MA020EOK - Ponto de entrada executado para validar a alteração ou inclusão de fornecedores
+
+M020EXC - Ponto de entrada executado após a exclusão de fornecedores
+
+MA020ROT - Ponto de entrada executado para adicionar opções ao menu
